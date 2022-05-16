@@ -3,6 +3,16 @@
 ![Contributors](https://img.shields.io/badge/Contributers-2-blue)
 ![Maintenance](https://img.shields.io/badge/Maintenance-Close%20To%20None-red)
 
+## How To Run
+
+### NOTICE!
+You need to be in the same IP network as your friends or this wont work. This is a LAN project.
+
+#### Server
+Git clone the repo then open server.py to run the server.
+
+#### Users
+Open client.py, type in username and start chatting with people in the same network as you.
 
 ## Information
 
