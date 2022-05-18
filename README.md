@@ -30,7 +30,6 @@ This is just a one off project done for fun and wont turn into anything big. It 
 ## Whats Planned?
 There are a few things planned and hoped to finsishe early. The way we are going at this we will have atleast a few of these items on our todo list done by the first release of this project:
 - [x] Startup Page
-- [ ] Username system /canceled with device name username
-- [ ] User interface
-- [ ] Time Stamped Messages
-- [ ] Fast Relay Speed
+- [x] Username system
+- [X] Time Stamped Messages (Probably)
+- [X] Fast Relay Speed
